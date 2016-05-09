@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/Lab_color_space
+https://en.wikipedia.org/wiki/Color_difference
+https://en.wikipedia.org/wiki/Lab_color_space
+https://en.wikipedia.org/wiki/RGB_color_model#Additive_primary_colors
+https://en.wikipedia.org/wiki/CMYK_color_model
+http://www.aces.edu/dept/fisheries/education/pond_to_plate/documents/ExplanationoftheLABColorSpace.pdf
+https://en.wikipedia.org/wiki/CIE_1931_color_space
